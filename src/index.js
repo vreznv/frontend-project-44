@@ -14,9 +14,8 @@ const runGame = (gameLogic, introMessage, rounds = 3) => {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.
 Let's try again, ${name}!`);
       return;
-    } else {
-      console.log('Correct!');
     }
+    console.log('Correct!');
   }
 
   console.log(`Congratulations, ${name}!`);
