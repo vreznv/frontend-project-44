@@ -4,3 +4,4 @@
 Check out a demo of the brain-even game https://asciinema.org/a/NDGo98FtSL8B8xKWXH5SWg4kA.
 Check out a demo of the brain-calc game https://asciinema.org/a/Fey15cE0gou9OjmTmqdWGCWNy
 Check out a demo of the brain-gcd game https://asciinema.org/a/beON4DrUQwnSLxzAx6xUAcRZu 
+Check out a demo of the brain-progression game https://asciinema.org/a/iCnKkfxqreWs7BazgBbdkyaQI
