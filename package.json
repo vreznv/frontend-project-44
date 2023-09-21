@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js",
-    "brain-calc": "bin/brain-calc.js"
+    "brain-even": "./games/brain-even.js",
+    "brain-calc": "./games/brain-calc.js",
+    "brain-gcd": "./games/brain-gcd.js"
   },
   "description": "[![Actions Status](https://github.com/vreznv/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/vreznv/frontend-project-44/actions)",
   "main": "index.js",
